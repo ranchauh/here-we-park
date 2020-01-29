@@ -1,0 +1,44 @@
+{
+  "parkingSlots": [
+    {
+      "mt_partition": "123456.1",
+      "parkingId":  "parking1",
+      "buildingId":  "hereBuilding",
+      "buildingName":  "HERE Technologies",
+      "floorNumber":  "B1",
+      "directions" : []
+    },
+    {
+      "mt_partition": "123456.2",
+      "parkingId":  "parking2",
+      "buildingId":  "hereBuilding",
+      "buildingName":  "HERE Technologies",
+      "floorNumber":  "B1",
+      "directions" : []
+    },
+    {
+      "mt_partition": "123456.3",
+      "parkingId":  "parking3",
+      "buildingId":  "hereBuilding",
+      "buildingName":  "HERE Technologies",
+      "floorNumber":  "B1",
+      "directions" : []
+    },
+    {
+      "mt_partition": "123456.4",
+      "parkingId":  "parking4",
+      "buildingId":  "hereBuilding",
+      "buildingName":  "HERE Technologies",
+      "floorNumber":  "B1",
+      "directions" : []
+    },
+    {
+      "mt_partition": "123456.5",
+      "parkingId":  "parking5",
+      "buildingId":  "hereBuilding",
+      "buildingName":  "HERE Technologies",
+      "floorNumber":  "B1",
+      "directions" : []
+    }
+  ]
+}

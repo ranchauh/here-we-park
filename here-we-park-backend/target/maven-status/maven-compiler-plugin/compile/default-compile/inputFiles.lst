@@ -1,0 +1,13 @@
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/util/Util.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/util/CPRestTemplate.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/config/CPConfiguration.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/model/BookingResponse.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/model/Vehicle.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/model/ParkingSlot.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/model/Partition.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/model/BookingRequest.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/service/ParkingService.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/model/Partitions.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/controller/CarParkingController.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/CarParkingApplication.java
+/Users/ranchauh/codebase/here-we-park/src/main/java/com/here/hackathon/car/parking/model/ParkingSlots.java
